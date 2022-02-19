@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @scubastation, the "hobbymaker"!
-- 👀 I’m interested in digital forensics
+- 👀 I’m interested in digital forensics, micropython, arduino, esp32, raspberry pi AND most of all: Fishing!
 - 🌱 I’m currently learning Python on beginner level.
 - 💞️ I’m looking to collaborate on any project to advance law enforcemant
 - 📫 How to reach me: maker@hobbymaker.de
